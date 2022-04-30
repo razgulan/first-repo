@@ -1,6 +1,6 @@
 #include Warrior.h
 
-int main() {
+int mainFunc() {
 	print("Selam");
 	return 0;
 }
